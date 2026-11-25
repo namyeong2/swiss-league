@@ -4,7 +4,7 @@
 
 ## 바로 쓰기
 
-- 웹에서 열기: https://(GitHub 아이디).github.io/swiss-league/
+- 웹에서 열기: https://namyeong2.github.io/swiss-league/
 - 또는 `index.html` 파일을 내려받아 브라우저로 열면 됩니다. 설치할 것은 없습니다.
 
 ## 주요 기능
